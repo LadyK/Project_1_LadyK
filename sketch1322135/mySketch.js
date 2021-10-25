@@ -1,8 +1,11 @@
+/* checking out Gbemi's code
+*/
+
 int flower=1;
 int angle =1;
 
 void setup() {
-  size(700, 700);
+  size(500, 500);
   background(#5C4939);
 }
 
